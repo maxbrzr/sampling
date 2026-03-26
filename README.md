@@ -2,7 +2,7 @@
 
 A new type of latent variable model using diffusion / flow sampling as encoder to generate the latent distribution p(z|x). This allows for much more flexible posterios, than restricting to Gaussians.
 
-Vanilla refers to toy setup on toy tasks. The Meta* parts apply this concept to a Bayesian meta-learning settings.
+Vanilla refers to toy setup on toy tasks. The Meta* parts apply this concept to a Bayesian meta-learning setting.
 
 ### Relevant Papers
 
